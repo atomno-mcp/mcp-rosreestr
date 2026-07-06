@@ -1,0 +1,21 @@
+{
+  "data": {
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+          "cad_num": "77:01:0001066:1234",
+          "category_type": "Помещение",
+          "readable_address": "г. Москва, Ленинский проспект, д. 10, кв. 5",
+          "area_value": "47.3",
+          "cad_cost": "8423000.0",
+          "cad_cost_date": "2025-01-01",
+          "year_built": "1957",
+          "registration_date": "2009-04-15",
+          "permitted_use_established_by_document": null
+        }
+      }
+    ]
+  }
+}

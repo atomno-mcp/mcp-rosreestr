@@ -1,0 +1,17 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "cad_num": "50:21:0010101:42",
+        "category_type": "Земельный участок",
+        "readable_address": "Московская обл., Ленинский р-н, д. Ивановка",
+        "area_value": "1500.0",
+        "cad_cost": "245000.0",
+        "cad_cost_date": "2024-01-01",
+        "permitted_use_established_by_document": "Для индивидуального жилищного строительства"
+      }
+    }
+  ]
+}
