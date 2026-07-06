@@ -39,7 +39,7 @@ PKK_BASE_URL: Final[str] = "https://pkk5.rosreestr.ru"
 
 DEFAULT_TIMEOUT: Final[float] = 15.0
 DEFAULT_USER_AGENT: Final[str] = (
-    "atomno-mcp-rosreestr/0.1 (+https://github.com/atomno-labs/mcp-rosreestr)"
+    "atomno-mcp-rosreestr/0.1 (+https://github.com/atomno-mcp/mcp-rosreestr)"
 )
 
 

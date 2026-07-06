@@ -11,7 +11,7 @@
 
 MCP-сервер (Model Context Protocol — открытый протокол интеграции AI-агентов с внешними источниками данных), дающий ИИ-агенту прямой доступ к публичным открытым данным Росреестра РФ через НСПД (Национальная система пространственных данных, `nspd.gov.ru`) и Публичную кадастровую карту (ПКК) как fallback.
 
-Часть семейства MCP-серверов **atomno** ([atomno-labs.ru](https://atomno-labs.ru)). Открытый MIT — никакой PII собственников, только публичные характеристики объекта.
+Часть семейства MCP-серверов **atomno** ([atomno-mcp.ru](https://atomno-mcp.ru)). Открытый MIT — никакой PII собственников, только публичные характеристики объекта.
 
 ## Что умеет
 
@@ -126,7 +126,7 @@ pytest -v
 
 ## Лицензия
 
-[MIT](LICENSE) © atomno-labs
+[MIT](LICENSE) © Atomno
 
 ## Ссылки
 
@@ -134,4 +134,4 @@ pytest -v
 - [PyPI](https://pypi.org/project/atomno-mcp-rosreestr/)
 - [Issues / баг-трекер](https://github.com/atomno-mcp/mcp-rosreestr/issues)
 - [MCP Catalog (Glama.ai)](https://glama.ai/mcp/servers/atomno-mcp/mcp-rosreestr)
-- Семейство atomno MCP: [atomno-labs.ru](https://atomno-labs.ru)
+- Семейство atomno MCP: [atomno-mcp.ru](https://atomno-mcp.ru)

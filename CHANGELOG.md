@@ -14,7 +14,11 @@ the project follows [Semantic Versioning](https://semver.org/).
 - CLI: `mcp-rosreestr` (stdio), `mcp-rosreestr doctor` for health-check.
 - Tests: pytest + respx HTTP mocks.
 
-## [0.1.0] — TBD
+## [0.1.1] — 2026-07-06
 
-Initial public release. See [SPEC](../../_knowledge/specs/spec.md) for full
-context.
+### Changed
+
+- Брендинг PyPI и публичной документации: `atomno-labs` → `Atomno` / `atomno-mcp`
+  (copyright, контактные URL, User-Agent).
+
+## [0.1.0] — 2026-07-06
