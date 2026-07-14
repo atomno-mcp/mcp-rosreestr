@@ -1,18 +1,18 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.atomno-mcp/mcp-rosreestr",
+  "name": "mcp-rosreestr",
   "description": "MCP server for Russian Rosreestr cadastral data: lookup by number, address or coordinates.",
   "repository": {
     "url": "https://github.com/atomno-mcp/mcp-rosreestr",
     "source": "github"
   },
-  "version": "0.1.2",
+  "version": "0.1.4",
   "packages": [
     {
       "registryType": "pypi",
       "registryBaseUrl": "https://pypi.org",
       "identifier": "atomno-mcp-rosreestr",
-      "version": "0.1.2",
+      "version": "0.1.4",
       "runtimeHint": "uvx",
       "transport": {
         "type": "stdio"
