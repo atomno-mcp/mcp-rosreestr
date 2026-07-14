@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "atomno-mcp-rosreestr"
-version = "0.1.1"
+version = "0.1.2"
 description = "MCP server for Russian Rosreestr open cadastral data: lookup by cadastral number / address / coordinates, cadastral value with history."
 readme = "README.md"
 license = { text = "MIT" }
