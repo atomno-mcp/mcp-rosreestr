@@ -5,5 +5,5 @@ and the legacy ПКК (Публичная Кадастровая Карта) end
 SQLite cache and polite-bot HTTP behaviour.
 """
 
-__version__ = "0.1.4"
+__version__ = "0.1.6"
 __all__ = ["__version__"]
