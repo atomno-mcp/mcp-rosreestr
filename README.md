@@ -1,3 +1,4 @@
+<!-- mcp-name: io.github.atomno-mcp/mcp-rosreestr -->
 # mcp-rosreestr
 
 > MCP server for Russian Rosreestr open cadastral data — lookup by cadastral number, address or coordinates; cadastral value with history.
