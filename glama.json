@@ -1,4 +1,8 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": ["atomnos"]
+  "maintainers": [
+    "atomnos"
+  ],
+  "name": "mcp-rosreestr",
+  "description": "MCP server for Russian Rosreestr cadastral data: lookup by number, address or coordinates."
 }
